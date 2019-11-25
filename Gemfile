@@ -62,7 +62,6 @@ group :development, :test do
   gem 'capistrano-bundler'
   gem 'capistrano-rails'
   gem 'capistrano3-unicorn'
-<<<<<<< HEAD
 end
 
 gem 'carrierwave'
@@ -70,6 +69,3 @@ gem 'mini_magick'
 
 gem 'fog-aws'
 
-=======
-end
->>>>>>> parent of ae4af68... on_the_way_of_deploy
